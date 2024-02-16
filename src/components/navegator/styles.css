@@ -1,0 +1,15 @@
+#nav-container {
+    background-color: #2D2020;
+    color: #FAE3E3;
+    height: 100vh;
+    width: 17vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+#separator {
+    width: 100%;
+    margin-top: auto;
+}
