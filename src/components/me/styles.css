@@ -1,0 +1,30 @@
+#me-container {
+    padding: 5rem 3rem;
+}
+
+#me-name, #me-welcome {
+    font-family: K2D;
+    font-weight: bold;
+}
+
+#me-button {
+    width: 10rem;
+    height: 3rem;
+    font-family: Raleway;
+    font-weight: 600;
+    background-color: #FAE3E3;
+    border: 2px solid #2D2020;
+    border-radius: 15px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+#me-button:hover {
+    background-color: #2D2020;
+    color: #FAE3E3;
+}
+
+#me-photo {
+    height: 300px;
+    margin-top: 8rem;
+}

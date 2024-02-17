@@ -1,0 +1,8 @@
+#aboutMe-container {
+    width: 55%;
+    margin: 3rem 5rem;
+}
+
+#aboutMe-title, #aboutMe-footer{
+    font-family: K2D;
+}

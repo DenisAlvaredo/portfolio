@@ -2,7 +2,7 @@
     background-color: #2D2020;
     color: #FAE3E3;
     height: 100vh;
-    width: 17vw;
+    width: 17vw !important;
     display: flex;
     align-items: center;
     justify-content: space-around;
