@@ -1,0 +1,21 @@
+#skills-container{
+    margin: auto 5rem;
+}
+
+#skills-title, #skills-list {
+    font-family: K2D;
+}
+
+#skills-list {
+    margin: 13px 0;
+}
+
+#skills-items {
+    margin: 9px 0;
+    padding-left: 1rem;
+}
+
+#skills-item{
+    list-style: none;
+    margin: 5px 0;
+}
